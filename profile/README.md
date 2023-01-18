@@ -1,1 +1,6 @@
 # MotusAI
+MotusAI is a company that specializes in applied Artificial Intelligence, Machine Learning, and Data Analysis. Our goal is to provide consulting services, education, and inspiration to organizations in order to achieve tangible business results. We support organizations throughout the entire process of implementing AI, from the initial idea to the development and implementation of the technology. We strive to simplify the technical aspects of AI, Machine Learning, and Data Analysis so that organizations can focus on achieving business outcomes rather than getting bogged down in technical details.
+
+In addition to providing services, MotusAI designs and builds reusable components that can be deployed on a variety of platforms, including the MotusAI platform, public cloud environments, private cloud environments, edge devices, and embedded industrial components.
+
+MotusAI was founded with the mission of making AI more accessible and easy to adopt, with a focus on increasing business value. To achieve this, we have assembled a team of experienced professionals and bright minds in the industry. We also actively engage in commercial projects and support scientific research and the open-source community to ensure that society as a whole benefits from the advancements in AI, Machine Learning, and Data Analysis.
